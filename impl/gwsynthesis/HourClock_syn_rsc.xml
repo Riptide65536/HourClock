@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="HourClock" Register="16" Lut="68" T_Register="49(16)" T_Alu="24(0)" T_Lut="86(68)">
+    <SubModule name="div_1" Register="25" T_Register="25(25)"/>
+    <SubModule name="div_2" Alu="24" Lut="1" T_Alu="24(24)" T_Lut="1(1)"/>
+    <SubModule name="dtsm1" Register="8" Lut="17" T_Register="8(8)" T_Lut="17(17)"/>
+</Module>

@@ -1,0 +1,29 @@
+Reading netlist file: "D:\Gowin\Files\HourClock\impl\gwsynthesis\HourClock.vg"
+Parsing netlist file "D:\Gowin\Files\HourClock\impl\gwsynthesis\HourClock.vg" completed
+Processing netlist completed
+Reading constraint file: "D:\Gowin\Files\HourClock\src\HourClock.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "D:\Gowin\Files\HourClock\impl\pnr\HourClock.power.html" completed
+Generate file "D:\Gowin\Files\HourClock\impl\pnr\HourClock.pin.html" completed
+Generate file "D:\Gowin\Files\HourClock\impl\pnr\HourClock.rpt.html" completed
+Generate file "D:\Gowin\Files\HourClock\impl\pnr\HourClock.rpt.txt" completed
+Generate file "D:\Gowin\Files\HourClock\impl\pnr\HourClock.tr.html" completed
+Sun Sep 15 11:28:34 2024
+

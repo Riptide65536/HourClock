@@ -1,0 +1,46 @@
+[
+ {
+  "InstFile" : "D:/Gowin/Files/HourClock/src/HourClock.v",
+  "InstLine" : 131,
+  "InstName" : "HourClock",
+  "ModuleFile" : "D:/Gowin/Files/HourClock/src/HourClock.v",
+  "ModuleLine" : 131,
+  "ModuleName" : "HourClock",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/Gowin/Files/HourClock/src/HourClock.v",
+    "InstLine" : 142,
+    "InstName" : "div_1",
+    "ModuleFile" : "D:/Gowin/Files/HourClock/src/HourClock.v",
+    "ModuleLine" : 103,
+    "ModuleName" : "div"
+   },
+   {
+    "InstFile" : "D:/Gowin/Files/HourClock/src/HourClock.v",
+    "InstLine" : 143,
+    "InstName" : "div_2",
+    "ModuleFile" : "D:/Gowin/Files/HourClock/src/HourClock.v",
+    "ModuleLine" : 116,
+    "ModuleName" : "div2"
+   },
+   {
+    "InstFile" : "D:/Gowin/Files/HourClock/src/HourClock.v",
+    "InstLine" : 230,
+    "InstName" : "dtsm1",
+    "ModuleFile" : "D:/Gowin/Files/HourClock/src/HourClock.v",
+    "ModuleLine" : 65,
+    "ModuleName" : "dtsm",
+    "SubInsts" : [
+     {
+      "InstFile" : "D:/Gowin/Files/HourClock/src/HourClock.v",
+      "InstLine" : 98,
+      "InstName" : "SSDec",
+      "ModuleFile" : "D:/Gowin/Files/HourClock/src/HourClock.v",
+      "ModuleLine" : 41,
+      "ModuleName" : "SevenSegDecoder"
+     }
+    ]
+   }
+  ]
+ }
+]
